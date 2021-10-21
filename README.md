@@ -1,2 +1,2 @@
-# instacomment
-Pypi module (Python) created by me. It automates instagram to comment on posts of a particular account. In other words its a comment spammer!!
+# **InstaComment** - A ``Python Module`` by ``Arka Saha``
+This Module Helps Users To Post Custom Comments On Instagram Posts Of A Particular Account
