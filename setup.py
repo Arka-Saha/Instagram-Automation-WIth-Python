@@ -8,7 +8,7 @@ setup(
   author = 'Arka Saha',                   # Type in your name
   author_email = 'i.am.arka.saha@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/Arka-Saha/instacomment',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/Arka-Saha/instacomment/archive/refs/tags/v_01.tar.gz',    # I explain this later on
   keywords = ['instagram', 'automation', 'instagramPosts', 'auto comments', 'instagram posts comment'],   # Keywords that define your package best
   install_requires=[           
           'selenium',
